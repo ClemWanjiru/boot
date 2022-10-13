@@ -1,0 +1,10 @@
+.container{
+    background-color: aquamarine;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.col-md-4{
+    margin-top: 10px;
+    padding: 20px;
+}
